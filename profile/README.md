@@ -11,3 +11,7 @@
 SBGA, wrnm, nmsl, wcsndm.  
 
 —— Kyoku 2024.1.14
+
+コハD、ニマスレ！
+
+—— MCredbear 2024.1.14
