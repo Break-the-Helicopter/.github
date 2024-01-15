@@ -19,3 +19,11 @@ SBGA, wrnm, nmsl, wcsndm.
 コハD、ニマスレ！
 
 —— MCredbear 2024.1.14
+
+<br>
+
+<br>
+
+echo "Kohad说原神真好玩";
+
+—— Future 2024.1.15
